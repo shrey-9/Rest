@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.shrey.rest.restfulwebservices;
+
+/**
+ * @author SHREY PAREKH
+ *
+ */
+public class HelloWorldBean {
+
+}

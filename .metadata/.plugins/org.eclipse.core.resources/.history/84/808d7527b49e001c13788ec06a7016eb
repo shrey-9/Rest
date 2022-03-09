@@ -1,0 +1,5 @@
+package com.shrey.rest.restfulwebservices.exception;
+
+public class ExceptionResponse {
+
+}

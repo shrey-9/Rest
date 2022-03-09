@@ -1,0 +1,5 @@
+package com.shrey.rest.restfulwebservices;
+
+public class SwaggerConfig {
+
+}

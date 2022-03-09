@@ -1,0 +1,10 @@
+package com.shrey.rest.restfulwebservices;
+
+
+@RestController
+public class HelloWorldController {
+	
+	public String helloWorld() {
+		return "Hello World";
+	}
+}

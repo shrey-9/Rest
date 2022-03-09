@@ -1,0 +1,5 @@
+package com.shrey.rest.restfulwebservices.helloworld.user;
+
+public class UserResource {
+
+}
